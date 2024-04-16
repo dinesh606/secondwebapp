@@ -1,0 +1,25 @@
+1 .  describe the scope of your involvement
+
+in my last project i used sap bods as an etl tool i was responsible for designing developing and maintaning etl activits  like extracting the data from multiple sources, then transform that extracted data as per the business requirement and load that data into destination by ensuring the data accuracy and data quality. i have good knowledge on sql and python to transform the incoming data as per  bussiness requirments. i have developed etl pipelines which includes data movement and data transformation activity using azure data factory.
+now i am moving to cloud like azure data factory and databrcks to tackle similar etl activitis or challenges but with scalablity and flexibilty offered by cloud.
+
+
+2.identify and detail your individual contribution
+
+in my previous role with sap bods, i was responsible for design and implement etl workflows to meet specific bussiness requirement, ensuring data quality and reliabilty.
+now i am transitioning to Azure. my responsibilty expands to develope pipelines, notebooks using Azure data factory and databricks. this involves various data sorces and destinations. i well verserd in optimizing  etl pipelines for complex data transformation. i have worked with cross functional teams to understand the bussiness requirments then i have provided technical solution using Azure data engineering tools.
+
+
+3. Explain how your experience in last your project aligns with responsibilities of this role in BP
+
+ in my previous role with sap bods my responsiblities are to develope etl workflows as per bussiness requirements. including delta techniques to process only changed data and scd type to maintain historical data integrity.
+moving to azure my responsibilties will be to develope end to end data pipelines using adf, also including delta techniques, scd types and cdc concepts into cloud platform.
+with databriks i will leverege my experties in sql python and pyspark to perform complex data transformation and analysis task. including data lake for change data processing and handling slowly changing dimentions in data warehousing concept.
+i will  ensure data security and privicy regulations whithin azure sservices. also my role aligns with troubleshooting and optimizing data pipelines and notebooks. to ensure smooth performance
+
+4  .List the technologies you are proficient with, including those used in past year.
+ANS: Talking about skill proficiency, I am proficient in ADF, azure synapes, SQL python,pyspark,MySQL DataBricks and Azure platform. 
+
+5.  for coding related task i will estimate almost 50 to 60 percent my work time. i am regulaly utilizing  prgramming languages like sql pyhon.for talking about code submmision it depends upon complexity usauly it takes 1 2 weeks. and we used to do code review with offsore lead and onshore lead before prod deployment.
+
+6.In order to consult the work related tasks, I follow a Official microsoft documentation, official databricks documentation. also for some cocepts to understand I did watched youtube videos. I have google searched my doubts, If I stucked in SQL then I used to follow some websits like W3schools, so this are the sources I have used whenever I have doubts. this resources help a lot me to resolve specific doubt
