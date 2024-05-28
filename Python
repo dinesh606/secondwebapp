@@ -1,0 +1,21 @@
+ChatGPT
+
+User
+Mapple company has just released a latest model of MPhoneXI. There is a queue outside one of the stores and the store manager has decided for 2 giveaways to attract more customers. The giveaways will be given to the people who are in the queue.
+
+The store manager has asked the customers in the queue to pick a positive number of their choice. Manager finds the floor average of the numbers picked by them and prepares a shortlist of those who have chosen floor average as their number. He then identifies the maximum distance between the shortlisted. The maximum distance is the output.
+
+Given an array of N positive integers, representing the numbers chosen by N customers in the queue. Write a program to find out the maximum distance between the winners. Print -1 if at least two winners cannot be identified.
+
+Input Format: Input string will contain all the positive integers separated by comma.
+
+Output Format: Only one positive integer has to be printed or -1 in case at least two winners cannot be identified
+Sample Input
+
+7,5,3,2,5,3,2,3
+Sample Output
+5
+
+
+Explanation
+3 is the floor average. We have 3 inputs matching number 3 and the maximum distance between 2 such input is 5 
